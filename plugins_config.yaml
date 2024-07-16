@@ -1,0 +1,8 @@
+# plugins_config.yaml
+plugins:
+  - name: MaterialsProjectPlugin
+    description: A plugin to interact with the Materials Project API.
+    version: 0.1.0
+    settings:
+      api_key: "your_api_key_here"
+      base_url: "https://next-gen.materialsproject.org/api/v2/"
